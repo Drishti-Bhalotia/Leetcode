@@ -36,6 +36,11 @@
 |  |
 | ------- |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1323-maximum-69-number](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1323-maximum-69-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
