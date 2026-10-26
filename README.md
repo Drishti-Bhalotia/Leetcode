@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0015-3sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,8 @@
 |  |
 | ------- |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
