@@ -27,6 +27,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0015-3sum) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -61,4 +62,9 @@
 |  |
 | ------- |
 | [1669-merge-in-between-linked-lists](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
