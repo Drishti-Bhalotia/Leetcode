@@ -21,6 +21,7 @@
 | [2255-count-prefixes-of-a-given-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3731-find-missing-elements](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3731-find-missing-elements) |
 | [3921-score-validator](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3921-score-validator) |
 ## Two Pointers
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
