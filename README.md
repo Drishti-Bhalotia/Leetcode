@@ -22,6 +22,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3731-find-missing-elements) |
 | [3921-score-validator](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3921-score-validator) |
 ## Two Pointers
@@ -64,6 +65,7 @@
 | ------- |
 | [1518-water-bottles](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1518-water-bottles) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3921-score-validator](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3921-score-validator) |
 ## Linked List
 |  |
@@ -82,6 +84,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Enumeration
 |  |
