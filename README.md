@@ -52,6 +52,7 @@
 | ------- |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1323-maximum-69-number) |
+| [1518-water-bottles](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1518-water-bottles) |
 | [3536-maximum-product-of-two-digits](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Greedy
@@ -61,6 +62,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1518-water-bottles) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3921-score-validator](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3921-score-validator) |
 ## Linked List
