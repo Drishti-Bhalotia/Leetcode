@@ -20,6 +20,7 @@
 | [0015-3sum](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0015-3sum) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1470-shuffle-the-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -53,6 +55,7 @@
 ## Counting
 |  |
 | ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
