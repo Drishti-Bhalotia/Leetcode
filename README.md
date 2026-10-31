@@ -85,6 +85,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [1669-merge-in-between-linked-lists](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -109,4 +110,20 @@
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0593-valid-square) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
