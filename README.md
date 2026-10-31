@@ -63,6 +63,7 @@
 ## Math
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0593-valid-square) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1323-maximum-69-number) |
 | [1518-water-bottles](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1518-water-bottles) |
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
