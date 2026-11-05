@@ -23,6 +23,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1470-shuffle-the-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -41,12 +42,14 @@
 | [0015-3sum](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0015-3sum) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0015-3sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -140,4 +143,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
