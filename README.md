@@ -77,6 +77,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0007-reverse-integer) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0593-valid-square](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0593-valid-square) |
