@@ -88,6 +88,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0593-valid-square](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0593-valid-square) |
+| [1006-clumsy-factorial](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1323-maximum-69-number) |
 | [1518-water-bottles](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1518-water-bottles) |
@@ -103,6 +104,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1006-clumsy-factorial](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1518-water-bottles](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1518-water-bottles) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -119,6 +121,7 @@
 ## Stack
 |  |
 | ------- |
+| [1006-clumsy-factorial](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1006-clumsy-factorial) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
