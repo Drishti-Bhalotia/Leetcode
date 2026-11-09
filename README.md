@@ -27,6 +27,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -87,6 +88,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1323-maximum-69-number) |
 | [1518-water-bottles](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1518-water-bottles) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
@@ -157,4 +159,16 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
