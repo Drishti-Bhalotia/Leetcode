@@ -29,6 +29,7 @@
 | [1470-shuffle-the-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -56,6 +57,7 @@
 | [0015-3sum](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0015-3sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2418-sort-the-people](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2418-sort-the-people) |
 | [3536-maximum-product-of-two-digits](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3731-find-missing-elements) |
@@ -77,6 +79,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
