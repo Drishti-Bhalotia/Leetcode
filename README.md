@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0015-3sum) |
+| [0287-find-the-duplicate-number](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1046-last-stone-weight](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1046-last-stone-weight) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -147,6 +149,7 @@
 | [0067-add-binary](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0868-binary-gap](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0868-binary-gap) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -184,6 +187,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Number Theory
 |  |
@@ -197,4 +201,12 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
