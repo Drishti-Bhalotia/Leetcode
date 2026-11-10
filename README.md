@@ -28,6 +28,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1046-last-stone-weight) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Number Theory
 |  |
