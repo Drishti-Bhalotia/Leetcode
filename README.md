@@ -96,6 +96,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3697-compute-decimal-representation](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3697-compute-decimal-representation) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Greedy
@@ -112,6 +113,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3271-hash-divided-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3271-hash-divided-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3921-score-validator](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3921-score-validator) |
 ## Linked List
 |  |
