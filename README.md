@@ -14,6 +14,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3271-hash-divided-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3271-hash-divided-string) |
+| [3280-convert-date-to-binary](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3921-score-validator](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3921-score-validator) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
@@ -94,6 +95,7 @@
 | [1323-maximum-69-number](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1323-maximum-69-number) |
 | [1518-water-bottles](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3280-convert-date-to-binary](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3536-maximum-product-of-two-digits](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3697-compute-decimal-representation](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
