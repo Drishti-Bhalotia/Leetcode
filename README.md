@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0067-add-binary) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0593-valid-square](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0593-valid-square) |
@@ -109,6 +111,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0067-add-binary) |
 | [1006-clumsy-factorial](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1518-water-bottles](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1518-water-bottles) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -137,6 +140,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0067-add-binary) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Enumeration
