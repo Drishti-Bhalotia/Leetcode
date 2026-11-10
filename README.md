@@ -141,6 +141,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0067-add-binary) |
+| [0868-binary-gap](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0868-binary-gap) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Enumeration
