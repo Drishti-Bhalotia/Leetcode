@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0015-3sum) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [1669-merge-in-between-linked-lists](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
