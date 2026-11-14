@@ -26,6 +26,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0015-3sum) |
 | [0287-find-the-duplicate-number](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -217,4 +218,12 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
