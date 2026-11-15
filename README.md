@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0016-3sum-closest) |
 | [0287-find-the-duplicate-number](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0016-3sum-closest) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0016-3sum-closest) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
