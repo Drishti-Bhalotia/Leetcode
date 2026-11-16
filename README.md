@@ -12,6 +12,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1108-defanging-an-ip-address](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2418-sort-the-people](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2418-sort-the-people) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -129,6 +130,7 @@
 | [1006-clumsy-factorial](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1518-water-bottles](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1518-water-bottles) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3271-hash-divided-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3271-hash-divided-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
