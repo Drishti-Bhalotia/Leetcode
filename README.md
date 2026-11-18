@@ -12,6 +12,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1108-defanging-an-ip-address](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2418-sort-the-people](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2418-sort-the-people) |
@@ -36,6 +37,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
