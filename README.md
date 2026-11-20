@@ -37,6 +37,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -233,4 +234,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
