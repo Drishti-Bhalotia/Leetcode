@@ -13,6 +13,7 @@
 | [1108-defanging-an-ip-address](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2418-sort-the-people](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2418-sort-the-people) |
