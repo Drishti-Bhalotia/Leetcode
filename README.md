@@ -36,6 +36,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1046-last-stone-weight) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -115,6 +116,7 @@
 | [1006-clumsy-factorial](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1323-maximum-69-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1518-water-bottles](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3280-convert-date-to-binary](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3280-convert-date-to-binary) |
@@ -232,13 +234,19 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Matrix
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [3033-modify-the-matrix](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3033-modify-the-matrix) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
