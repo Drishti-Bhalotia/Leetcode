@@ -120,6 +120,7 @@
 | [1518-water-bottles](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3280-convert-date-to-binary](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3280-convert-date-to-binary) |
+| [3360-stone-removal-game](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3697-compute-decimal-representation](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -140,6 +141,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3271-hash-divided-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3271-hash-divided-string) |
+| [3360-stone-removal-game](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3360-stone-removal-game) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3921-score-validator](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3921-score-validator) |
