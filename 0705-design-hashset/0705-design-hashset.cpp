@@ -1,35 +1,21 @@
 class MyHashSet {
 public:
-vector<int> hash;
+vector<bool> hash;
     MyHashSet() {
+        hash.resize(1000001,false);
         
     }
     
     void add(int key) {
-        for(int i=0;i<hash.size();i++){
-            if(hash[i]==key){
-                return;
-            }           
-        }
-         hash.push_back(key);        
+       hash[key]=true; 
     }
     
     void remove(int key) {
-         for(int i=0;i<hash.size();i++){
-            if(hash[i]==key){
-                hash.erase(hash.begin()+i);
-                return;
-            }
-         }     
+        hash[key]=false;
     }
     
     bool contains(int key) {
-        for(int i=0;i<hash.size();i++){
-            if(hash[i]==key){
-                return true;
-            }
-         }  
-         return false;   
+      return hash[key];
     }
     
 };
