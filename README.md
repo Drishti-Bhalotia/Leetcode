@@ -42,6 +42,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1929-concatenation-of-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -145,6 +146,7 @@
 | [0067-add-binary](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0067-add-binary) |
 | [1006-clumsy-factorial](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1518-water-bottles](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1518-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
