@@ -126,6 +126,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1518-water-bottles](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3280-convert-date-to-binary](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3360-stone-removal-game](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -167,6 +168,7 @@
 | [1669-merge-in-between-linked-lists](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1006-clumsy-factorial](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1006-clumsy-factorial) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
