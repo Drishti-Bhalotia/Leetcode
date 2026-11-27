@@ -34,6 +34,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0705-design-hashset](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0706-design-hashmap) |
 | [1046-last-stone-weight](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1046-last-stone-weight) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0705-design-hashset](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0706-design-hashmap) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -160,6 +162,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0705-design-hashset](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0706-design-hashmap) |
 | [1669-merge-in-between-linked-lists](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -247,6 +250,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0706-design-hashmap) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Prefix Sum
@@ -270,5 +274,6 @@
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
