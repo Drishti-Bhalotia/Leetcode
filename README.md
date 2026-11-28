@@ -11,6 +11,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1108-defanging-an-ip-address](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -97,6 +98,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0705-design-hashset](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0706-design-hashmap) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
