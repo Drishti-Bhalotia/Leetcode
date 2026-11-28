@@ -45,6 +45,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1854-maximum-population-year](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1854-maximum-population-year) |
 | [1929-concatenation-of-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1854-maximum-population-year](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1854-maximum-population-year) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -270,6 +272,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1854-maximum-population-year](https://github.com/Drishti-Bhalotia/Leetcode/tree/master/1854-maximum-population-year) |
 ## Matrix
 |  |
 | ------- |
